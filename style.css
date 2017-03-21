@@ -1,0 +1,13 @@
+html, body { 
+	height: 100%; 
+	margin: 0;
+	padding: 0; }
+#map { 
+	height: 100%; 
+	border-top:50px solid #fff;
+    border-bottom:20px solid #fff;
+}
+.col-centered{
+    position: absolute;
+    top: 25%;
+}
